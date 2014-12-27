@@ -1,0 +1,10 @@
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik_spil.Form1.resources
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik_spil.Resources.resources
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik_spil.Shop.resources
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik spil.vbproj.GenerateResource.Cache
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\bin\Debug\Klik spil.exe
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\bin\Debug\Klik spil.pdb
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\bin\Debug\Klik spil.xml
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik spil.exe
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik spil.xml
+C:\Users\Samuel\Documents\GitHub\Super-klik-spil\Klik spil\Klik spil\obj\x86\Debug\Klik spil.pdb

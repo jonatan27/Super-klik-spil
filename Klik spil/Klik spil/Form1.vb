@@ -1,7 +1,7 @@
 ﻿Public Class Form1
 
     'Hvor mange klik man har
-    Public clicks As Integer = 0
+    Dim clicks As Integer = 0
 
     'Hvor mange power clicks man har
     Public powerclicks As Integer = 0
